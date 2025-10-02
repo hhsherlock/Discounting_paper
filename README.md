@@ -1,2 +1,2 @@
 # Discounting_paper
-Repo for public paper publishing reference 
+Repo for public paper publishing reference
